@@ -76,4 +76,3 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 ---
 
 **Desenvolvido com ❤️ por [Ana Raquel]** - [🔗 LinkedIn](https://linkedin.com/in/ana-raquel-de-holanda) | [🐱 GitHub](https://github.com/anaraquel00)
-```
