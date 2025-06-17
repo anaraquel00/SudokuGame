@@ -59,7 +59,7 @@ O jogo utiliza:
 
 ## 📸 Screenshots
 
-![Interface do Jogo](screenshots/gameplay.png) *(adicione sua screenshot real)*
+![Interface do Jogo](/Sudoku_Interface.png) 
 
 ## 🤝 Como Contribuir
 
@@ -75,6 +75,6 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 ---
 
-**Desenvolvido com ❤️ por [Ana Raquel]** - [🔗 LinkedIn](https://linkedin.com/in/ana-raquel-de-holanda) | [🐱 GitHub](https://github.com/anarqauel00)
+**Desenvolvido com ❤️ por [Ana Raquel]** - [🔗 LinkedIn](https://linkedin.com/in/ana-raquel-de-holanda) | [🐱 GitHub](https://github.com/anaraquel00)
 ```
 
